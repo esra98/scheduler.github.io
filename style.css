@@ -1,0 +1,50 @@
+a:hover {
+   cursor: pointer;
+   background-color: yellow;
+}
+*,html,body{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: black;
+	width: 100%;
+	height: 45px;
+	
+	font-size: 35px;
+	color: white;
+	position: fixed;
+	z-index:100;
+}
+
+.rightside{
+	
+	width: 50%;
+	margin: 0;
+	padding: 0;
+
+}
+#table1 {
+	position: fixed;
+}
+
+#searchbox{
+	position: fixed;
+	z-index:100;
+
+
+}
+#display: {
+	overflow-x: hidden;	
+}
+
+#table2: {
+	
+  
+    	
+}
+
+#scroll_table{
+	overflow: scroll;
+}
